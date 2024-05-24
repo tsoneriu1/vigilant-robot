@@ -61,7 +61,8 @@ def noSoup():
   global soup
   soup = soup + 1
   if soup > 10:
-    print(""""
+    print(
+       """"
               ,-.          ,-.
          /   \        /   \
        .'       `.    .'       `.
@@ -78,7 +79,8 @@ def noSoup():
      \  \________/  /  \________/  /
       `._          _.'    `._          _.'
         `--------`        `--------`
-    """")
+    """
+    )
     exit()
 
 # Call coffee_bot()!
