@@ -12,6 +12,15 @@ python3 coffeebot.py
 ```
 python3 alienbot.py
 ```
+## Using Docker
+
+```
+docker run python:latest coffeebot/coffeebot.py
+```
+```
+docker run python:latest python alienbot.py
+```
+
 
 ### Coffeebot
 ![Vigiglant Robot (2)](https://github.com/tsoneriu1/vigilant-robot/assets/138617362/72d9b98c-7d8b-4960-9666-092e035de409)
